@@ -1,0 +1,66 @@
+body
+{
+    margin: 0px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:100%;
+}
+.Gato 
+{
+    width: 100px;
+    height: min-content;
+    margin-left:20px;
+}
+
+
+.Contenidodearriba
+{
+    display:flex;
+    flex-direction:column;
+}
+section
+{
+    display:flex;
+    justify-content:center;
+}
+
+header 
+{    
+    display:flex;
+    justify-content:center;
+}
+
+.Foto
+{
+    width: 250px;
+    height: min-content;
+}
+
+.titulo
+{
+    color: #3E08E7;
+}
+
+footer
+{
+    background:#0131F5;
+    display:flex;
+    justify-content:center;
+    padding-top:15px;
+    padding-bottom:15px;    
+}
+
+.contenedor_logoredes
+{
+    display:flex;
+    align-items:center;
+}
+
+.logoredes
+{
+    width: 50px;
+    height:min-content;
+    margin-right:10px;
+    margin-left:10px;
+}
